@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormularioDatos", "FormularioDatos\FormularioDatos.csproj", "{F7013C49-AD3C-4B90-8120-32DD24643685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7013C49-AD3C-4B90-8120-32DD24643685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7013C49-AD3C-4B90-8120-32DD24643685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7013C49-AD3C-4B90-8120-32DD24643685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7013C49-AD3C-4B90-8120-32DD24643685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38C37B8-BAEB-4EF1-B692-800BDDA104F8}
+	EndGlobalSection
+EndGlobal
